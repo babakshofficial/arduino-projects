@@ -101,4 +101,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/babakshofficial/arduino-projects.git
 cd arduino-projects
+```
+
 Upload the relevant .ino files to your Arduino board using the Arduino IDE, and follow the instructions provided in each project's section.
