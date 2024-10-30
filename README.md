@@ -1,6 +1,6 @@
-# Arduino Projects
+# Arduino Projects by Babak Shahriari
 
-Welcome to my Arduino Projects repository! This collection showcases a variety of projects I've developed, exploring the diverse applications of Arduino in both simple and complex environments. Below, you’ll find an overview of each project, including a brief description, components used, and instructions to get you started.
+Welcome to my Arduino Projects repository! This collection showcases various projects originally developed by [Muanis](https://github.com/muanis) and forked into this repository. Below, you’ll find an overview of each project, including a brief description, components used, and instructions to get you started.
 
 ## Table of Contents
 
@@ -104,3 +104,15 @@ cd arduino-projects
 ```
 
 Upload the relevant .ino files to your Arduino board using the Arduino IDE, and follow the instructions provided in each project's section.
+
+**Contributing:**
+Feel free to fork this repository and submit pull requests if you have any enhancements or new projects to add. Let's make Arduino projects accessible and fun for everyone!
+
+**License:**
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+**Contact:**
+If you have any questions or suggestions, reach out to me via email at babakshofficial@gmail.com.
+
+**Acknowledgements:**
+These projects were originally developed by [Muanis](https://github.com/muanis) and have been forked for further exploration and learning.
