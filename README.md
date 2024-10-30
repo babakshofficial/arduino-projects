@@ -1,4 +1,4 @@
-# Arduino Projects by Babak Shahriari
+# Arduino Projects
 
 Welcome to my Arduino Projects repository! This collection showcases a variety of projects I've developed, exploring the diverse applications of Arduino in both simple and complex environments. Below, you’ll find an overview of each project, including a brief description, components used, and instructions to get you started.
 
